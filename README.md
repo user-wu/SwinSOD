@@ -17,7 +17,31 @@ Download the following datasets and unzip them into data folder
 * [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency)
 * [DUT-OMRON](http://saliencydetection.net/dut-omron/)
 * [DUTS](http://saliencydetection.net/duts/)
-
+## Directory Structure
+```
+ data --------------------------
+      |-DUTS        -image/
+      |             -mask/
+      |             -test.txt
+      |             -train.txt
+      --------------------------
+      |-DUT-OMRON   -image/
+      |             -mask/
+      |             -test.txt
+      --------------------------
+      |-ECSSD       -image/
+      |             -mask/
+      |             -test.txt
+      --------------------------
+      |-HKU-IS      -image/
+      |             -mask/
+      |             -test.txt
+      --------------------------
+      |-PASCAL-S    -image/
+      |             -mask/
+      |             -test.txt
+      --------------------------
+```
 ## Train
 * Clone repository
 ```
