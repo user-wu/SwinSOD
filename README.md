@@ -11,6 +11,12 @@ Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer
 * Numpy
 
 ## Data Preparation
+Download the following datasets and unzip them into data folder
+* [PASCAL-S](https://ccvl.jhu.edu/datasets/)
+* [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
+* [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency)
+* [DUT-OMRON](http://saliencydetection.net/dut-omron/)
+* [DUTS](http://saliencydetection.net/duts/)
 
 ## Train
 * Clone repository
