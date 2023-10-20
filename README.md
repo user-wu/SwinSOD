@@ -16,9 +16,17 @@ Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer
 * Clone repository
 ```
 git clone https://github.com/user-wu/SwinSOD.git
-cd SwinSOD/
+cd SwinSOD/src/
+```
+* Train
+```
+python train.py
 ```
 ## Inference
+```
+cd SwinSOD/src/
+python test.py
+```
 
 ## Citation
 
