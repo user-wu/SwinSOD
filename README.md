@@ -1,14 +1,16 @@
 # SwinSOD
 Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer"
 
-* Introduction
+## Introduction
 
-* Data Preparation
+## Requirements
 
-* Train
+## Data Preparation
 
-* Test
+## Train
 
-* Citation
+## Inference
+
+## Citation
 
 The code will upload soon.
