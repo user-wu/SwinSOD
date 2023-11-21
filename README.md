@@ -63,8 +63,8 @@ cd SwinSOD/src/
 python test.py
 ```
 * After testing, saliency maps of PASCAL-S, ECSSD, HKU-IS, DUT-OMRON, DUTS-TE will be saved in ```eval/maps/``` folder.
-* Trained model: [model](Soon realease……)
-* Saliency maps for reference: [saliency maps](Soon realease……)
+* Trained model: [model](https://pan.baidu.com/s/1-l8iNwEOOq9Y5CO9TYghKw?pwd=e4na)
+* Saliency maps for reference: [saliency maps](https://pan.baidu.com/s/1URFCxG7JIVP6u_mHoaTo6g?pwd=3zfq)
 
 ## Citation
 * If you find this work is helpful, please cite our paper
