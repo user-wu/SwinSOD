@@ -75,4 +75,3 @@ python test.py
   journal={Available at SSRN 4556674}
 }
 ```
-The code will upload soon.
