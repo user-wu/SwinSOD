@@ -56,8 +56,7 @@ python train.py
 * Swin-Transformer is used as the backbone of SwinSOD and DUTS-TR is used to train the model
 * batch=32, lr=0.05, momen=0.9, decay=5e-4, epoch=32
 * Warm-up and linear decay strategies are used to change the learning rate lr
-* [Pretrained model](链接：https://pan.baidu.com/s/13wu5qtljqFOUvdYSOV1STg?pwd=z5l0 
-提取码：z5l0), unzip code:z510.
+* [Pretrained model](https://pan.baidu.com/s/13wu5qtljqFOUvdYSOV1STg?pwd=z5l0).
 ## Inference
 ```
 cd SwinSOD/src/
