@@ -68,10 +68,5 @@ python test.py
 
 ## Citation
 * If you find this work is helpful, please cite our paper
-```
-@article{wu4556674swinsod,
-  title={Swinsod: Salient Object Detection Using Swin Transformer},
-  author={Wu, Shuang and Zhang, Guangjian and Liu, Xuefeng},
-  journal={Available at SSRN 4556674}
-}
-```
+
+  soon release……
