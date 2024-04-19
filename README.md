@@ -70,4 +70,7 @@ python test.py
 * If you find this work is helpful, please cite our paper
 
 later release……
-Wu, Shuang and Zhang, Guangjian and Liu, Xuefeng, Swinsod: Salient Object Detection Using Swin Transformer. Available at SSRN: https://ssrn.com/abstract=4556674 or http://dx.doi.org/10.2139/ssrn.4556674
+```
+Wu, Shuang and Zhang, Guangjian and Liu, Xuefeng, Swinsod: Salient Object Detection Using Swin Transformer.
+Available at SSRN: https://ssrn.com/abstract=4556674 or http://dx.doi.org/10.2139/ssrn.4556674
+```
