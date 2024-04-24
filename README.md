@@ -1,7 +1,7 @@
 # SwinSOD
 Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer" 
 
-* !!News: The [SSRN Preprinted paper](https://ssrn.com/abstract=4556674)  "SwinSOD: Salient Object Detection using Swin-Transformer" has been accepted by [《Image and Vision Computing》](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001434?via%3Dihub).
+* !!News: The [SSRN](https://ssrn.com/abstract=4556674) Preprinted paper "SwinSOD: Salient Object Detection using Swin-Transformer" has been accepted by 《[Image and Vision Computing](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001434?via%3Dihub)》.
 
 
 
