@@ -1,8 +1,6 @@
 # SwinSOD
 Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer" 
 
-by Shuang Wu, Guangjian Zhang, Xuefeng Liu
-
 * !!News: The [SSRN Preprinted paper](https://ssrn.com/abstract=4556674)  "SwinSOD: Salient Object Detection using Swin-Transformer" has been accepted by [《Image and Vision Computing》](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001434?via%3Dihub).
 
 
