@@ -1,5 +1,7 @@
 # SwinSOD
 Code release for paper "SwinSOD: Salient Object Detection using Swin-Transformer" 
+
+The paper has been accepted by "Image and Vision Computing".
 Paper link: [http://dx.doi.org/10.2139/ssrn.4556674](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001434?via%3Dihub)
 
 ## Introduction
