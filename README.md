@@ -73,19 +73,14 @@ python test.py
 
 ## Citation
 * If you find this work is helpful, please cite our paper
-
-later release……
+  
 ```
-@article{WU2024105039,
-title = {SwinSOD: Salient object detection using swin-transformer},
-journal = {Image and Vision Computing},
-pages = {105039},
-year = {2024},
-issn = {0262-8856},
-doi = {https://doi.org/10.1016/j.imavis.2024.105039},
-url = {https://www.sciencedirect.com/science/article/pii/S0262885624001434},
-author = {Shuang Wu and Guangjian Zhang and Xuefeng Liu},
-keywords = {Salient object detection, Swin-transformer, Poly loss, Feature fusion},
-abstract = {The Transformer structure has achieved excellent performance in a wide range of applications in computer vision, and Swin-Transformer also shows strong feature representation capabilities. On this basis, we proposed a fusion model SwinSOD for RGB salient object detection. This model used a Swin-Transformer as the encoder to extract hierarchical features, was driven by a multi-head attention mechanism to bridge the gap between hierarchical features, progressively fused adjacent layer feature information under the guidance of global information, and refined the boundaries of saliency objects through the feedback information. Specifically, the Swin-Transformer encoder extracted multi-level features and then recalibrated the channels to optimize intra-layer channel features. The feature fusion module realized feature fusion between each layer under the guidance of global information. In order to clarify the fuzzy boundaries, the second stage feature fusion achieved edge refinement under the guidance of feedback information. The proposed model outperforms state-of-the-art models on five popular SOD datasets, demonstrating the advanced performance of this network. Code released: https://github.com/user-wu/SwinSOD.}
+@article{wu2024swinsod,
+  title={SwinSOD: Salient object detection using swin-transformer},
+  author={Wu, Shuang and Zhang, Guangjian and Liu, Xuefeng},
+  journal={Image and Vision Computing},
+  pages={105039},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
